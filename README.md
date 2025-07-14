@@ -59,12 +59,12 @@ Use `raw` as the body type and choose `JSON` format.
 
 Example request body:  
 {   
-  "movie_id": 1,
-  "location": "Cinema One",
-  "hall": "Hall A",
-  "date": "2025-07-13",
-  "time": "2:00 PM",
-  "seats": ["A1", "A2", "A3"]
+  "movie_id": 1,   
+  "location": "Cinema One",   
+  "hall": "Hall A",   
+  "date": "2025-07-13",   
+  "time": "2:00 PM",   
+  "seats": ["A1", "A2", "A3"]   
 }   
 
 
