@@ -40,7 +40,7 @@ php artisan migrate
 php artisan serve --port=8001
 # Runs on: http://127.0.0.1:8001
 
-API Guideline (Add Review):  
+## API Guideline (Add Review):  
 To submit a movie review using the API, make a POST request to the following endpoint:  
 http://127.0.0.1:8001/api/movies/1/reviews  
 Use `raw` as the body type and choose `JSON` format.  
