@@ -68,8 +68,8 @@ Example request body:
 }   
 
 
-Note that, no condition applied for this. can add any name any hall etc. To make it realistic, just use:
-location: Cinema One/Cinema Two
+Note that, no condition applied for this. can add any name any hall etc. To make it realistic, just use:   
+location: Cinema One/Cinema Two   
 hall: Hall A/Hall B
 
 
