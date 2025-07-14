@@ -53,7 +53,7 @@ Example request body:
 }  
 
 ## API Guideline (Booking):  
-To submit a movie review using the API, make a POST request to the following endpoint:
+To submit a booking using the API, make a POST request to the following endpoint:
 http://127.0.0.1:8001/api/bookings
 Use `raw` as the body type and choose `JSON` format.  
 
@@ -74,7 +74,7 @@ hall: Hall A/Hall B
 
 
 ## API Guideline (Payment):   
-To submit a movie review using the API, make a POST request to the following endpoint:   
+To submit a payment using the API, make a POST request to the following endpoint:   
 http://127.0.0.1:8001/api/submit-payment   
 Use `raw` as the body type and choose `JSON` format. 
 
