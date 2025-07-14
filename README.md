@@ -66,6 +66,8 @@ Example request body:
   "time": "2:00 PM",
   "seats": ["A1", "A2", "A3"]
 }
+
+
 Note that, no condition applied for this. can add any name any hall etc. To make it realistic, just use:
 location: Cinema One/Cinema Two
 hall: Hall A/Hall B
