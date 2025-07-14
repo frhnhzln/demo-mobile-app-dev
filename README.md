@@ -54,7 +54,7 @@ Example request body:
 
 ## API Guideline (Booking):  
 To submit a booking using the API, make a POST request to the following endpoint:
-http://127.0.0.1:8001/api/bookings
+http://127.0.0.1:8001/api/bookings    
 Use `raw` as the body type and choose `JSON` format.  
 
 Example request body:  
