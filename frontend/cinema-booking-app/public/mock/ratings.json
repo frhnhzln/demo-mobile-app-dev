@@ -1,0 +1,29 @@
+{
+  "movie_id": 1,
+  "rating": 4.0,
+  "totalReviews": 20,
+  "breakdown": [
+    { "stars": 5, "count": 12 },
+    { "stars": 4, "count": 5 },
+    { "stars": 3, "count": 2 },
+    { "stars": 2, "count": 1 },
+    { "stars": 1, "count": 0 }
+  ],
+  "reviews": [
+    {
+      "user": "Ali",
+      "comment": "Amazing movie, loved every second!",
+      "stars": 5
+    },
+    {
+      "user": "Lina",
+      "comment": "Great visual effects but story was average.",
+      "stars": 3
+    },
+    {
+      "user": "Syamim",
+      "comment": "Good movie.",
+      "stars": 3
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Venom: Let There Be Carnage",
+      "genres": ["Action", "Adventure", "Sci-Fi"],
+      "release_date": "October 2021",
+      "age_rating": "15+",
+      "duration": "2h 28m",
+      "rating": 4.8,
+      "synopsis": "Eddie Brock, a journalist who is adjusting to his new symbiotic relationship with Venom. In the movie, Eddie attempts to reignite his career by interviewing serial killer Cletus Kasady. However, Cletus becomes the host of the symbiote Carnage and escapes prison after a failed execution. Eddie Brock struggles to adjust to his new life as the host of the alien symbiote Venom, which grants him super-human abilities in order to be a lethal vigilante",
+      "cast": ["Tom Hardy", "Woody Harrelson", "Michelle Williams", "Naomie Harris", "Reid Scott", "Stephen Graham"],
+      "director": "Andy Serkis",
+      "writer": " Marcel",
+      "totalReviews": 20
+    },
+    {
+      "id": 2,
+      "title": "Interstellar"
+    },
+    {
+      "id": 3,
+      "title": "The Matrix"
+    },
+    {
+      "id": 4,
+      "title": "Avengers: Endgame"
+    },
+    {
+      "id": 5,
+      "title": "Tenet"
+    }
+  ]
+}

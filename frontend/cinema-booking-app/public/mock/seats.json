@@ -1,0 +1,8 @@
+{
+  "seats": [
+    { "id": "A1", "status": "vacant" },
+    { "id": "A2", "status": "vacant" },
+    { "id": "A3", "status": "locked" },
+    { "id": "A4", "status": "vacant" }
+  ]
+}
