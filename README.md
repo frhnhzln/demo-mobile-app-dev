@@ -52,3 +52,20 @@ Example request body:
   "comment": "Great experience and visuals!"  
 }  
 
+## API Guideline (Booking):  
+To submit a movie review using the API, make a POST request to the following endpoint:
+http://127.0.0.1:8001/api/bookings
+Use `raw` as the body type and choose `JSON` format.  
+
+Example request body:
+{
+  "movie_id": 1,
+  "location": "Cinema One",
+  "hall": "Hall A",
+  "date": "2025-07-13",
+  "time": "2:00 PM",
+  "seats": ["A1", "A2", "A3"]
+}
+Note that, no condition applied for this. can add any name any hall etc. To make it realistic, just use:
+location: Cinema One/Cinema Two
+hall: Hall A/Hall B
