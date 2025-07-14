@@ -71,3 +71,26 @@ Example request body:
 Note that, no condition applied for this. can add any name any hall etc. To make it realistic, just use:
 location: Cinema One/Cinema Two
 hall: Hall A/Hall B
+
+
+## API Guideline (Payment):   
+To submit a movie review using the API, make a POST request to the following endpoint:   
+http://127.0.0.1:8001/api/submit-payment   
+Use `raw` as the body type and choose `JSON` format. 
+
+Example request body:  
+{   
+  "card_number": "4111111111111111",   
+  "expiry_date": "12/25",   
+  "cvv": "123",   
+  "amount": 91.60,   
+  "movie_id": 1,   
+  "location": "GSC Mid Valley",   
+  "hall": "Hall 5",   
+  "date": "2025-07-14",   
+  "time": "7:30 PM",   
+  "seats": ["B1", "B2"]   
+}   
+
+
+Note that, no condition applied as per dummy informations setup.
